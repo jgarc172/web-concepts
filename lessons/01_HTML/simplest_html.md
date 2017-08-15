@@ -41,16 +41,14 @@ We want to render an HTML page that contains no data, to determine the minimum r
 
 ## Available tools
 
-The local filesystem.
+Since HTML pages are created in the server and we are not ready to setup a server.  We'll use the local filesystem.
 
 This is not the ideal solution, but this is typical of how something can be created in *development* before it
 can be deployed in production.
 
-We will not be using a server because we are not ready to setup a server.  One way to "mock" a server is just to create the
-HTML document in the local filesystem where the browser is located.  Browsers can "request" a resource (file) from
-the filesystem.
+One way to "mock" a server is just to create the HTML document in the local filesystem where the browser is located.  Browsers can "request" a resource (file) from the filesystem.
 
-_Example of a minimum HTML document_
+_Example of a minimum HTML document_:
 
 Here is a reference of a minimal HTML document: https://www.sitepoint.com/a-minimal-html-document-html5-edition/
 
@@ -72,7 +70,7 @@ Using the above reference one can create an HTML document that will render in th
 Create a file named "simple.html" and save it in your filesystem.  Implement the solution by using your 
 favorite text editor and type or paste all the necessary elements.  
 
-If you get an error, see if by removing the element causing the error will fix it.
+If you get an error in the browser or validation tool, see if by removing the element causing the error will fix it.
 
 ## Test 
  
@@ -105,7 +103,7 @@ So let's review some of these concepts:
                 
 **values**:   
     
-    <body></body>
+    an empty value in inside the body element: <body></body>
     
     or
 
