@@ -53,7 +53,9 @@ Actually, the example has a few elements that are not necessary for our task
 Using the above reference one can create an HTML document that will render in the browser with no errors and no content.
 
 **identity**:       The name of the file
+
 **value**:          The contents of the file
+
 **representation**: HTML rendering by the browser
 
 
