@@ -57,11 +57,11 @@ Actually, the example has a few elements that are not necessary for our task
 
 Using the above reference one can create an HTML document that will render in the browser with no errors and no content.
 
-**identity**:       The name of the file
+**identifier**:       The name of the file
 
 **value**:          The contents of the file
 
-**representation**: HTML rendering by the browser
+**representation or type**: HTML rendering by the browser
 
 
 ## Task and Implementation
@@ -86,18 +86,18 @@ my solution is in file [simple.html](https://github.com/jgarc172/web-concepts/bl
 ## Review
 
 From the perspective of the HTML-renderer, there was no *data* to display because the <body> element was empty.  
-But from a higher perspective, that of the browser, we still needed to provide a reference to the HTML file (identity).  
+But from a higher perspective, that of the browser, we still needed to provide a reference to the HTML file (identifier).  
 So let's review some of these concepts:
 
-**identities**:  
+**identifiers**:  
 
     file:///C:/data/training/html/simple.html
-    this file when given to the browser evaluated the HTML content and rendered the <body> element
+    this is the identifier of  a file when given to the browser, then evaluated the HTML content and rendered the <body> element
     
     or
     
     https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html
-    this is the identity of the same file, it contains HTML data but it is not rendered by 
+    this is the identifier of the same file, it contains HTML data but it is not rendered by 
     an HTML renderer.  The contents of the data are rendered (interpreted) as text.
                 
 **values**:   
@@ -117,6 +117,6 @@ So let's review some of these concepts:
       </body>
     </html>
     
-**Representations**:   HTML, text
+**Representations or types**:   HTML, text
 
 
