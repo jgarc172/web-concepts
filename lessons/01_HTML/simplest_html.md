@@ -90,6 +90,7 @@ my solution is in file [simple.html](https://github.com/jgarc172/web-concepts/bl
                 https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html
                 
 **value**:   
+
     <!DOCTYPE html>
     <html lang="en">
       <head>
