@@ -86,8 +86,10 @@ my solution is in file [simple.html](https://github.com/jgarc172/web-concepts/bl
 
 ## Review
 
-**identities**:  file:///C:/data/training/html/simple.html
-                https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html
+**identities**:  
+
+    *file:///C:/data/training/html/simple.html
+    *https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html
                 
 **value**:   
 
