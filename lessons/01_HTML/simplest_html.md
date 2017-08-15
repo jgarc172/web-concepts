@@ -82,6 +82,25 @@ You can also use this website to validate the form of your HTML page:
     
 ## My Solution
 
-my solution is in file simple.html
+my solution is in file [simple.html](https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html)
+
+## Review
+
+**identities**:  file:///C:/data/training/html/simple.html
+                https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html
+                
+**value**:   
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8">
+        <title>Simple HTML</title>
+      </head>
+      <body>
+    
+      </body>
+    </html>
+    
+**Representation**:   HTML    
 
 
