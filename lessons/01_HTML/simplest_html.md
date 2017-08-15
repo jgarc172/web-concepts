@@ -2,9 +2,10 @@
 
 ## Concepts
 
-The tool we will be using is a web browser.  
+The tool we will be using is a web browser.
 
 **web browser**
+
 A web browser, when given a valid HTML document, *renders* the HTML page.
 
 **HTML document**
