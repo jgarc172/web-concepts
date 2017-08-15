@@ -21,10 +21,15 @@ how to answer these, because this is what you will be doing in your real job.
 _answers_
 1. In the server
 2. HTML pages can be created 
+
     a. in advance.  These are called Static pages
+    
     b. at request time. These are called dynamic pages and are typically associated with the term *web application*
+    
 3. Based on the type, HTML pages are created by 
+
     a. static: a frontend developer and a graphics designer
+    
     b. dynamic: a frontend developer, a graphics designer, and a backend developer
     
 ## **Problem or Goal**
@@ -67,6 +72,16 @@ favorite text editor and type or paste all the necessary elements.
 If you get an error, see if by removing the element causing the error will fix it.
 
 ## Test 
-
+ 
 Using the browser, **identify** the HTML file to open the file and render it in the browser.  You must see nothing 
-in the browser.
+in the browser.  Use the Developer tools console in Chrome (Ctrl + Shift + J) to check for any other errors.  Remove the offending element.
+
+You can also use this website to validate the form of your HTML page:
+
+    https://validator.w3.org/#validate_by_input
+    
+## My Solution
+
+my solution is in file simple.html
+
+
