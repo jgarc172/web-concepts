@@ -44,7 +44,7 @@ one network client and one network server.
 
 * Only the server needs to be **identified**
 * The data in the server needs to be **identified**
-* The data is **transferred** by copying the data from the Server to the Client
+* The data is **transferred** by copying  data between the Server and the Client
 * **Representation** or type of the data needs to be negotiated (HTML, JSON)
 * Interpretation of the data depends on the location of the data
 
