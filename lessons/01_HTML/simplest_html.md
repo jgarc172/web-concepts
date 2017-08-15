@@ -78,7 +78,7 @@ in the browser.  Use the Developer tools console in Chrome (Ctrl + Shift + J) to
 
 You can also use this website to validate the form of your HTML page:
 
-    [https://validator.w3.org/#validate_by_input]
+    [https://validator.w3.org/#validate_by_input]([https://validator.w3.org/#validate_by_input])
     
 ## My Solution
 
