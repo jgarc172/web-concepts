@@ -20,7 +20,8 @@ see if you can answer these questions:
 These are actually very difficult questions, and it is very important that you know 
 how to answer these, because this is what you will be doing in your real job.
 
-_answers_
+_answers_:
+
 1. In the server
 2. HTML pages can be created 
 
