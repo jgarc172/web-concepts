@@ -14,7 +14,7 @@ The lessons will contain
 4. a task for you to implement the solution in *software*
 5. a test to verify your implementation
 
-# Identities, Values, and Representations
+# Identifiers, Values, and Representations
 
 In Compuer Science (Actually in all of social life) we need to identify and compare information.  What you learned about memory addresses and memory values is very important in every aspect of your programming activities.  Remember these concepts.  Good questions to ask:
 
