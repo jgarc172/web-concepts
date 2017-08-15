@@ -9,6 +9,7 @@ The tool we will be using is a web browser.
 A web browser, when given a valid HTML document, *renders* the HTML page.
 
 **HTML document**
+
 Based on the fact that the simplest web network requires at a minimum one client (browser) and one server, 
 see if you can answer these questions:
 
