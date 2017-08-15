@@ -86,13 +86,26 @@ my solution is in file [simple.html](https://github.com/jgarc172/web-concepts/bl
 
 ## Review
 
+From the perspective of the HTML-renderer, there was no *data* to display because the <body> element was empty.  
+But from a higher perspective, that of the browser, we still needed to provide a reference to the HTML file (identity).  
+So let's review some of these concepts:
+
 **identities**:  
 
     file:///C:/data/training/html/simple.html
+    this file when given to the browser evaluated the HTML content and rendered the <body> element
+    
     or
+    
     https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html
+    this is the identity of the same file, it contains HTML data but it is not rendered by 
+    an HTML renderer.  The contents of the data are rendered (interpreted) as text.
                 
-**value**:   
+**values**:   
+    
+    <body></body>
+    
+    or
 
     <!DOCTYPE html>
     <html lang="en">
@@ -105,6 +118,6 @@ my solution is in file [simple.html](https://github.com/jgarc172/web-concepts/bl
       </body>
     </html>
     
-**Representation**:   HTML    
+**Representations**:   HTML, text
 
 
