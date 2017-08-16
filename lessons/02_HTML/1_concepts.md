@@ -4,7 +4,7 @@
 
 An HTML document with data.
 
-Here is how data in an HTML is presented, using a simple paragraph <p> element:
+Here is how data in an HTML is presented, using a simple paragraph *<p>* elements:
 
     . . .
     <body>
