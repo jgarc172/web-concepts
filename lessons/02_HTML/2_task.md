@@ -32,46 +32,42 @@ One can create an HTML document that contains data in the `<body>` element.  The
 Create a file named "simpleWithData.html" and save it in your filesystem.  Implement the solution by using your 
 favorite text editor and create a valid HTML document with the following two text segments rendered as paragraphs.  
 
-    ```html
     This is paragraph 1
     
     This is paragraph 2
-    ```
 
 
 ## Test 
  
-Using the browser, **identify** the HTML file to open the file and render it in the browser.  You must see nothing 
-in the browser.  Use the Developer tools console in Chrome (Ctrl + Shift + J) to check for any other errors.  Remove the offending element.
+Using the browser, **identify** the HTML file to open the file and render it in the browser.  You must see the two paragrapsh 
+in the browser.  Use the Developer tools console in Chrome (Ctrl + Shift + J) to check for any  errors.  
 
 You can also use this website to validate the form of your HTML page:
 [https://validator.w3.org/#validate_by_input]([https://validator.w3.org/#validate_by_input])
     
 ## My Solution
 
-my solution is in file [simple.html](https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html)
+my solution is in file [simpleWithData.html](https://github.com/jgarc172/web-concepts/blob/master/lessons/02_HTML/simpleWithData.html)
 
 ## Review
 
-From the perspective of the HTML-renderer, there was no *data* to display because the <body> element was empty.  
-But from a higher perspective, that of the browser, we still needed to provide a reference to the HTML file (identifier).  
-So let's review some of these concepts:
+The identified HTML file is equivalent to the contents of the file.
 
 **identifiers**:  
 
-    file:///C:/data/training/html/simple.html
+    file:///C:/data/training/html/simpleWithData.html
     this is the identifier of  a file when given to the browser, then evaluated the HTML content and 
     rendered the <body> element
     
     or
     
-    https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html
+    https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simpleWithData.html
     this is the identifier of the same file, it contains HTML data but it is not rendered by 
     an HTML renderer.  The contents of the data are rendered (interpreted) as text.
                 
 **values**:   
     
-    an empty value in inside the body element: <body></body>
+    The value  inside the body element: <body></body>
     
     or
 
