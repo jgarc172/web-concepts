@@ -60,14 +60,16 @@ So let's review some of these concepts:
 **identifiers**:  
 
     file:///C:/data/training/html/simple.html
-    this is the identifier of  a file when given to the browser, then evaluated the HTML content and 
-    rendered the <body> element
+    
+    this is the identifier of  a file when given to the browser
     
     or
     
     https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html
-    this is the identifier of the same file, it contains HTML data but it is not rendered by 
-    an HTML renderer.  The contents of the data are rendered (interpreted) as text.
+    
+    this is the identifier of the same file but located in the github server.
+    It contains HTML data but it is not rendered by an HTML renderer.  
+    The contents of the data are rendered (interpreted) as text.
                 
 **values**:   
     
