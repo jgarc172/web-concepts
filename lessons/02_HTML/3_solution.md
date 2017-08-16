@@ -2,6 +2,14 @@
 
 my solution is in file [simpleWithData.html](https://github.com/jgarc172/web-concepts/blob/master/lessons/02_HTML/simpleWithData.html)
 
+It contains a `<body>` element with data in `<p>` elements:
+
+    <body>
+        <p>This is paragraph 1</p>
+        <p>This is paragraph 2</p>
+    </body>
+
+
 ## Review
 
 The identified HTML file is equivalent to the contents of the file.
