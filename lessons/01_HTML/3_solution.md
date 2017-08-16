@@ -12,7 +12,7 @@ So let's review some of these concepts:
 
     file:///C:/data/training/html/simple.html
     
-    this is the identifier of  a file when given to the browser
+    this is the identifier of a file when given to the browser
     
     or
     
@@ -24,7 +24,7 @@ So let's review some of these concepts:
                 
 **values**:   
     
-    an empty value in inside the body element: <body></body>
+    an empty value inside the body element: <body></body>
     
     or
 
@@ -45,4 +45,4 @@ So let's review some of these concepts:
 
 **transfer**:
 
-    The contents of the file simple.html was copied to the browser's window
+    The contents of the file simple.html, the <body> element was copied to the browser's window
