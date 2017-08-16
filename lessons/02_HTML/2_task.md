@@ -69,7 +69,7 @@ The identified HTML file is equivalent to the contents of the file.
                 
 **values**:   
     
-    The contents of the `<body>` with `<p>` elements
+    The contents of the <body> with <p> elements
     
     or
 
