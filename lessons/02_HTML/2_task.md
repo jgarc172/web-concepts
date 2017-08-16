@@ -17,7 +17,7 @@ We'll use simple examples of data, for example, two simple paragraphs of text:
 One can create an HTML document that contains data in the `<body>` element.  The two paragraphs of text are enclosed each in a `<p>` element.
 
 
-				HTML doc with data ------>  Browser ----> rendered data in HTML
+		HTML doc with data ------>  Browser ----> rendered data in HTML
 				
 
 **identifier**:       The name of the file
@@ -32,7 +32,7 @@ One can create an HTML document that contains data in the `<body>` element.  The
 Create a file named "simpleWithData.html" and save it in your filesystem.  Implement the solution by using your 
 favorite text editor and create a valid HTML document with the following two text segments rendered as paragraphs.  
 
-    ```HTML
+    ```html
     This is paragraph 1
     
     This is paragraph 2
