@@ -63,7 +63,9 @@ The identified HTML file is equivalent to the contents of the file.
     
     https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simpleWithData.html
     
-    this is the identifier of the same file from a remote server given to the browser. It contains HTML data but it is not  rendered by an HTML renderer.  The contents of the data are rendered (interpreted) as text.
+    this is the identifier of the same file from a remote server given to the browser. 
+    It contains HTML data but it is not  rendered by an HTML renderer.  
+    The contents of the data are rendered (interpreted) as text.
                 
 **values**:   
     
