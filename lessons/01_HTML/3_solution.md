@@ -45,4 +45,4 @@ So let's review some of these concepts:
 
 **transfer**:
 
-    The contents of the file simple.html, the <body> element was copied to the browser's window
+    The contents of the file simple.html, the <body> element, was copied to the browser's window
