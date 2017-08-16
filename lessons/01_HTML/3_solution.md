@@ -1,6 +1,9 @@
 ## My Solution
 
 my solution is in file [simple.html](https://github.com/jgarc172/web-concepts/blob/master/lessons/01_HTML/simple.html)
+and it contains an empty `<body>` element:
+
+        <body></body>
 
 ## Review
 
