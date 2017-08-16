@@ -60,7 +60,8 @@ So let's review some of these concepts:
 **identifiers**:  
 
     file:///C:/data/training/html/simple.html
-    this is the identifier of  a file when given to the browser, then evaluated the HTML content and rendered the <body> element
+    this is the identifier of  a file when given to the browser, then evaluated the HTML content and 
+    rendered the <body> element
     
     or
     
