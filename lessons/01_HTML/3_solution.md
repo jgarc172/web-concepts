@@ -39,4 +39,10 @@ So let's review some of these concepts:
       </body>
     </html>
     
-**Representations or types**:   HTML, text
+**Representations or types**:   
+
+    HTML, text
+
+**transfer**:
+
+    The contents of the file simple.html was copied to the browser's window
